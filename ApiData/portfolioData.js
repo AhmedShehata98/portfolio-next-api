@@ -29,6 +29,23 @@ export const projectsList = [
   // },
   {
     id: "3",
+    title: "local video player",
+    mediaUrl: "/local-video-player.png",
+    discription:
+      "this is a local video player allows you to explore your videos list in your pc and play/pause them and from your browser ",
+    technologies: [
+      "HTML 5",
+      "CSS 3",
+      "Javascript",
+      "react",
+      "redux",
+      "typescript",
+    ],
+    repositoryUrl: "https://github.com/AhmedShehata98/local-js-video-player",
+    demoUrl: "https://js-video-play.netlify.app/",
+  },
+  {
+    id: "4",
     title: "subscriber managment",
     mediaUrl: "/subscriber-managment.png",
     discription:
@@ -38,9 +55,9 @@ export const projectsList = [
     demoUrl: "https://ahmedshehata98.github.io/subscriber-managment/",
   },
   {
-    id: "4",
+    id: "5",
     title: "inventory flow online",
-    mediaUrl: "/my-reads-udacity.png",
+    mediaUrl: "/Inventory-management-system.png",
     discription:
       "this is a inventory management system that allows you to manage your inventory and control them",
     technologies: ["HTML 5", "CSS 3", "Javascript", "bootstrap"],
