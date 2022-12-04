@@ -1,4 +1,4 @@
-const newsFeed = [
+export const newsFeed = [
   {
     id: "1",
     description:
