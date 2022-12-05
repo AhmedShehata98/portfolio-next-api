@@ -40,7 +40,7 @@ export const skillsList = [
   {
     id: nanoid(4),
     image: "/skills-icons/next-js.svg",
-    skillName: "typescript",
+    skillName: "next js",
     skillLevel: 50,
   },
 ];
