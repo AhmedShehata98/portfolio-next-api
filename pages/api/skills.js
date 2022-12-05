@@ -1,6 +1,6 @@
 import { skillsList } from "../../ApiData/skillsData";
 
-export default function handler(res, req) {
+export default function handler(req, res) {
   if (req.method === "GET") {
     res.status(200).json(skillsList);
   }
