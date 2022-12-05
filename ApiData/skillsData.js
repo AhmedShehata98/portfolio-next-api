@@ -22,7 +22,7 @@ export const skillsList = [
   {
     id: nanoid(4),
     image: "/skills-icons/sass.png",
-    skillName: "javascript",
+    skillName: "sass",
     skillLevel: 60,
   },
   {
