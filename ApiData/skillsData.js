@@ -35,7 +35,7 @@ export const skillsList = [
     id: nanoid(4),
     image: "/skills-icons/react-js.png",
     skillName: "react js",
-    skillLevel: 65,
+    skillLevel: 75,
   },
   {
     id: nanoid(4),
